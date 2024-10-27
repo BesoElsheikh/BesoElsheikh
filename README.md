@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning *Next.JS & Nest.JS*
 
-- 👨‍💻 All of my projects are available at [https://ahmedkhaled123456789.github.io/portfolio-app/](https://ahmedkhaled123456789.github.io/portfolio-app/)
+- 👨‍💻 All of my projects are available at 
 
 - 💬 Ask me about *React.JS *
 
